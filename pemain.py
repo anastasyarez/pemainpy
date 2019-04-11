@@ -26,7 +26,7 @@ def view():
     print("--------------------------")
     print("VIEW\nNo\tNama Pemain\t\tPosisi")
     while (text):
-        print(str(no) +" \t" + text.strip())
+        print(str(no) +" \t\t" + text.strip())
         text = f.readline()
         no+=1
     f.close()
