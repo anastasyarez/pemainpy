@@ -30,9 +30,8 @@ def view():
         text = f.readline()
         no+=1
     f.close()
-    os.system("PAUSE")
-    # x = input("Silakan input apa saja untuk kembali ke menu...")
     print("----------------------------------------------------------")
+    os.system("PAUSE")
     print("Terima kasih~\n")
 
 pilih = ''
