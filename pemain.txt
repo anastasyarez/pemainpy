@@ -1,0 +1,5 @@
+Anas		Striker
+Firda		Keeper
+Almira		Striker
+Iqbal		Striker
+Hasna		Footer
